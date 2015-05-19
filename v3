@@ -1,0 +1,67 @@
+
+# Requirements
+## for no2id.net v.3
+
+For the next release of the no2id site, we'll need to support:
+
+ - content rich pages
+   - embeded non-autoplaying video
+   - images in-line/wrapped around text
+ 
+ - updatable content: via a CMS, or perhaps Jekyll
+
+ - clear navigation
+
+ - support for donations
+
+ - mechanism to sign-up for campaign news (is there still stuff sent
+ in the post to new conscripts?)
+
+ - mechanism to discover local group, and take part in that
+ 
+ - presentation of materials
+
+ - possible resurrection of forum? -- or allow disqus style comments etc on
+ newsblog, and have stuff there??
+
+ - incorporated content from:
+    - newsblog
+    - press release archive?
+    - newsletter archive?
+    - twitter
+    - facebook
+    - instagram?
+    - social media?
+
+## Styling
+The look of the website is ancient, and well overdue a facelift:
+navigation should be simplified, probably top + bottom menus (and
+maybe a context menu)
+
+The site must be responsive (aka mobile friendly).
+
+## Users
+ - citizens
+ - students
+ - journos
+ - representatives
+ - assn. members
+ - former members
+ - researchers
+ - editors/content creators
+
+(revist this with insights from stats)
+
+## User stories (lazily written)
+
+ - As an editor, I want to be able to easily create content that's
+ feature rich, and share this via social media easily
+
+ - As a citizen, i want to know how to get updates on the campaign
+
+ - As a student, i want to find materials I can cite
+
+ - As a citizen, i want to find out how i can support the campaign
+
+ - As a citizen, i want to take localized action
+
